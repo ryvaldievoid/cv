@@ -1,8 +1,9 @@
 ## Ryvaldie Ishaq Hamdallah
-ryvaldiehamdallah@gmail.com
-+62 896-7683-8437
-
 <img src="https://miro.medium.com/max/3150/1*6jBigvPv2hgNZ8d2nB2iMA.png" alt="drawing" width="200"/>
+
+ryvaldiehamdallah@gmail.com
+
++62 896-7683-8437
 
 [Mail](mailto:ryvaldiehamdallah@gmail.com)/[LinkedIn](https://www.linkedin.com/in/ryvaldie-hamdallah-b65bb0132/)
 
