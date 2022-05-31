@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+## Ryvaldie Ishaq Hamdallah
+ryvaldiehamdallah@gmail.com
++62 896-7683-8437
 
-You can use the [editor on GitHub](https://github.com/ryvaldievoid/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Mail](mailto:ryvaldiehamdallah@gmail.com)/[LinkedIn](https://www.linkedin.com/in/ryvaldie-hamdallah-b65bb0132/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Software Engineer, mainly focusing in Native Android Development based in Bandung, Indonesia.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Formal Education & Certification
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Bachelor of Engineering - Widyatama University (2015 - 2020)
+IPK: 3.34 equivalent GPA: 4.17
+```
+```markdown
+# Professional Scrum Master 1 - scrum.org (2020)
+Score: 93.8 / 100
+[validation](https://www.scrum.org/certificates/552404)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Experiences
+```markdown
+# NP Solution Limited Hong Kong
+**Android Developer** (September 2021 - Present)
+```
+```markdown
+# PT Kreasi Inovasi Digital
+**Scrum Master** (February 2021 - June 2021)
+```
+```markdown
+# PT GITS Indonesia
+**Agile Coach** (February 2020 - September 2020)
+**Technical Project Lead** (July 2019 - February 2020)
+**Android Developer** (July 2018 - February 2020)
 
-### Jekyll Themes
+Achievements:
+- Speaker - Mobile Apps for Business - Event by PT ITASOFT GLOBAL (2019)
+- Android Trainer - Bung Karno University (2019)
+```
+```markdown
+# CV Newtronic Solution
+**Software and Hardware Engineer** (September 2015 - June 2018)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryvaldievoid/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Achievements:
+- Represent company at TechInAsia booth B154 (2017)
+```
+```markdown
+# CV Java Electrindo
+**Microcontroller Programmer** (May 2015 - September 2015)
+```
+```markdown
+# PT Gobel Dharma Nusantara (Panasonic)
+**Intern as Field Technician** (January 2015 - March 2015)
+```
 
-### Support or Contact
+## Projects
+```markdown
+# SIP POLRES TULANG BAWANG
+Technology: Android Native Java, MVC Framework, Firebase
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Application that is used a Polres Tulang Bawang (Police Department in Lampung, Indonesia)
+information system, to ease the process of document creation, missing people information, missing
+things information, wanted criminal information, and distress signal to automatically call the nearest
+Tulang Bawang Officer.
+
+In this project, I worked on the backend and android application
+
+[Officer App](https://play.google.com/store/apps/details?id=com.newtronic_solution.sip_polres_tulang_bawang_petugas)
+[User App](https://play.google.com/store/apps/details?id=com.newtronic_solution.sip_polres_tulang_bawang)
+```
+```markdown
+# PWC ONE PLUS
+Technology: Android Native Kotlin, MVVM Framework, Retrofit, Android RX, Dagger, Firebase
+
+Application for PwC alumnis. In this application you can post, like, comment, recommend a job,
+similar with LinkedIn, but exclusively for PwC alumnis.
+
+In this project, I worked on the android application. The modules that I worked on are Login, Timeline,
+News, Search, Chat, Interest, and Profile.
+
+[App](https://play.google.com/store/apps/details?id=com.idalumniapps.gits)
+```
+```markdown
+# SWEATGEN / Born To Sweat
+Technology: Android Native Kotlin, MVVM Framework, Retrofit, Android RX, Dagger, Firebase, GPS live tracking
+
+Application for running. In this application you can live track your running, see your running path, see your progress, participate in running events, compete with other user, and win points.
+
+In this project, I worked on the android application. The modules that I worked on are Dashboard, Profile, Push
+Notification, and Search.
+
+[App](https://play.google.com/store/apps/details?id=com.amertaindahotsuka.sweatgeneration)
+```
+```markdown
+# MyTMMIN
+Technology: Android Native Kotlin, MVVM Framework, Retrofit, Android RX, Dagger, Firebase
+
+Application for company module. In this application you can see your payslip, submit a day off, submit a natural disaster warning, request transportation, see work file, and many things.
+
+In this projects, I worked on the android application. The module that I worked on are Profile, Natural Disaster Warning, and Work File.
+
+[App](https://play.google.com/store/apps/details?id=id.co.toyota.mytmmin)
+```
