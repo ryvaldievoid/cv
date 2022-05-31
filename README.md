@@ -29,7 +29,9 @@ Score: 93.8 / 100
 
 ### PT GITS Indonesia
 **Agile Coach** (February 2020 - September 2020)
+
 **Technical Project Lead** (July 2019 - February 2020)
+
 **Android Developer** (July 2018 - February 2020)
 
 Achievements:
